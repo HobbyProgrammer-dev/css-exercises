@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.norm_class {
+  background-color: rgb(255, 192, 192);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one_id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.cool_class {
+  font-size: 24px;
+}
+
+#another_id {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
